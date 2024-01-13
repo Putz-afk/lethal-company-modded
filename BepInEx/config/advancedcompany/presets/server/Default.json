@@ -8,7 +8,7 @@
   "general": {
     "enable_extend_deadline": true,
     "save_suits_after_death": true,
-    "save_progress": true,
+    "save_progress": false,
     "xp_multiplier": 2.0,
     "starting_xp": 1000,
     "day_length": 1400
@@ -232,8 +232,8 @@
       ]
     },
     "jump_stamina": {
-      "active": true,
-      "base": 1.6,
+      "active": false,
+      "base": 1.75,
       "change": 0.1,
       "prices": [
         100,
@@ -245,8 +245,8 @@
       ]
     },
     "sprint_stamina": {
-      "active": true,
-      "base": 1.6,
+      "active": false,
+      "base": 1.75,
       "change": 0.1,
       "prices": [
         150,

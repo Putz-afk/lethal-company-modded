@@ -8,35 +8,23 @@
 [Info   :   BepInEx] Loaded 1 patcher method from [AdvancedCompany.Preloader 1.0.0.0]
 [Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
 [Info   :   BepInEx] 3 patcher plugins loaded
-[Info   :   Console] [MonoMod] 
-[Info   :   Console] Reading input file into module.
-[Info   :HookGenPatcher] Starting HookGenerator
-[Info   :HookGenPatcher] Done.
-[Info   :   Console] [MonoMod] 
-[Info   :   Console] Reading input file into module.
-[Info   :HookGenPatcher] Starting HookGenerator
-[Info   :HookGenPatcher] Done.
-[Info   :   Console] [MonoMod] 
-[Info   :   Console] Reading input file into module.
-[Info   :HookGenPatcher] Starting HookGenerator
-[Info   :HookGenPatcher] Done.
-[Info   :   Console] [MonoMod] 
-[Info   :   Console] Reading input file into module.
-[Info   :HookGenPatcher] Starting HookGenerator
-[Info   :HookGenPatcher] Done.
-[Info   :   Console] [MonoMod] 
-[Info   :   Console] Reading input file into module.
-[Info   :HookGenPatcher] Starting HookGenerator
-[Info   :HookGenPatcher] Done.
-[Info   :   Console] [MonoMod] 
-[Info   :   Console] Reading input file into module.
-[Info   :HookGenPatcher] Starting HookGenerator
-[Info   :HookGenPatcher] Done.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 47 plugins to load
+[Info   :   BepInEx] 48 plugins to load
 [Warning:   BepInEx] Plugin [DiscountAlert 2.3.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [LetMeLookDown 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [Collect Your Dead 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
@@ -255,6 +243,8 @@
 [Info   :   BepInEx] Loading [Suit Saver 1.1.2]
 [Message:AdvancedCompany] Patching StartOfRound->ResetShip...
 [Info   : Unity Log] [SS]: Suit Saver loaded successfully!
+[Info   :   BepInEx] Loading [TakeTheMaskOff 1.1.0]
+[Info   :impulse.TakeTheMaskOff] Time to de the sus
 [Info   :   BepInEx] Loading [Corporate Restructure 1.0.6]
 [Info   :Corporate Restructure] Corporate Restructure -> loading
 [Message:AdvancedCompany] Patching StartOfRound->SyncShipUnlockablesClientRpc...
@@ -374,23 +364,9 @@
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Info   : Unity Log] Returning week num: 4
 [Info   : Unity Log] week num: 4
-[Info   : Unity Log] Discarding changed settings
 [Info   : Unity Log] host button pressed
 [Info   : Unity Log] Returning week num: 4
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 0
-[Info   : Unity Log] 0
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 0
-[Info   : Unity Log] 1
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 0
-[Info   : Unity Log] 2
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 0
-[Info   : Unity Log] -1
-[Info   : Unity Log] Returning week num: 4
-[Info   : Unity Log] host button pressed
+[Info   :AdvancedCompany] Loading player data for 76561198370724220 from server save file LCSaveFile1.
 [Info   : Unity Log] Displaying menu message
 [Info   : Unity Log] Connection approval callback! Game version of client request: 
 [Info   : Unity Log] Joining client id: 0; Local/host client id: 0
@@ -766,7 +742,23 @@
 [Warning: Unity Log] Unable to add the requested character to font asset [3270-REGULAR SDF]'s atlas texture. Please make the texture [3270-REGULAR SDF Atlas] readable.
 [Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
 [Message:AdvancedCompany] PopulateScenePlacedObjects
-[Info   :AdvancedCompany] Extending Lobby. Adding new player objects for a lobby size of 8
+[Info   :AdvancedCompany] Extending Lobby. Adding new player objects for a lobby size of 16
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
 [Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
 [Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
 [Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
@@ -905,7 +897,7 @@
 [Warning:Terminal Api] Failed to delete itp. Was not found in keywords.
 [Warning:Terminal Api] Failed to delete inverse. Was not found in keywords.
 [Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
-[Info   :AdvancedCompany] Extending QuickMenuManager player slots for 8 players.
+[Info   :AdvancedCompany] Extending QuickMenuManager player slots for 16 players.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
@@ -914,14 +906,30 @@
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-[Info   :AdvancedCompany] Extending HUDManager stats for 8 players.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :AdvancedCompany] Extending HUDManager stats for 16 players.
 [Info   : Diversity] Added HUDManagerRevamp to: PlayersManager / HUDManager
-[Info   :AdvancedCompany] Changing audio mixer and expanding voice chat slots for 8 players.
-[Info   :AdvancedCompany] New AudioMixer: Diagetic8Players
+[Info   :AdvancedCompany] Changing audio mixer and expanding voice chat slots for 16 players.
+[Info   :AdvancedCompany] New AudioMixer: Diagetic16Players
 [Info   : Diversity] Added PlayerRevamp to: Player (4)
 [Info   : Diversity] Added PlayerRevamp to: Player (5)
 [Info   : Diversity] Added PlayerRevamp to: Player (6)
 [Info   : Diversity] Added PlayerRevamp to: Player (7)
+[Info   : Diversity] Added PlayerRevamp to: Player (8)
+[Info   : Diversity] Added PlayerRevamp to: Player (9)
+[Info   : Diversity] Added PlayerRevamp to: Player (10)
+[Info   : Diversity] Added PlayerRevamp to: Player (11)
+[Info   : Diversity] Added PlayerRevamp to: Player (12)
+[Info   : Diversity] Added PlayerRevamp to: Player (13)
+[Info   : Diversity] Added PlayerRevamp to: Player (14)
+[Info   : Diversity] Added PlayerRevamp to: Player (15)
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
@@ -979,15 +987,30 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Message:AdvancedCompany] 
 [Message:AdvancedCompany] Player 7
 [Message:AdvancedCompany] 
+[Message:AdvancedCompany] Player 8
+[Message:AdvancedCompany] 
+[Message:AdvancedCompany] Player 9
+[Message:AdvancedCompany] 
+[Message:AdvancedCompany] Player 10
+[Message:AdvancedCompany] 
+[Message:AdvancedCompany] Player 11
+[Message:AdvancedCompany] 
+[Message:AdvancedCompany] Player 12
+[Message:AdvancedCompany] 
+[Message:AdvancedCompany] Player 13
+[Message:AdvancedCompany] 
+[Message:AdvancedCompany] Player 14
+[Message:AdvancedCompany] 
+[Message:AdvancedCompany] Player 15
+[Message:AdvancedCompany] 
 [Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
 [Info   : Unity Log] !!!! connectedPlayersAmount: 0
-[Info   : Diversity] Setting full darkness to local player: Tzz
 [Info   : Unity Log] [SS]: Waiting for suits to sync...
 [Info   : Unity Log] Has beta?: {hasBeta}
 [Info   : Unity Log] Has beta save data: True
 [Info   :AdvancedCompany] Activating necessary player objects for next player to join.
 [Info   :AdvancedCompany] Next player object with ID 1 activated.
-[Warning: Unity Log] [Dissonance:Recording] (17:13:16.679) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1673093)
+[Warning: Unity Log] [Dissonance:Recording] (18:33:38.425) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1805041)
 [Info   : Unity Log] [SS]: Successfully loaded saved suit. (GlowBlue)
 [Info   :darmuhsTerminalStuff] Checking for purchased Teleporter objects
 [Info   :darmuhsTerminalStuff] TP does not exist yet
@@ -995,44 +1018,658 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
 [Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
 [Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
-[Warning: Unity Log] [Dissonance:Recording] (17:13:22.961) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (17:13:22.963) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.2614977)
-[Info   : Unity Log] Triggering animated object trigger bool: setting to True
-[Info   : Unity Log] bool val: True
-[Info   : Diversity] Interactor interacted with: StorageCloset
-[Info   : Unity Log] Triggering animated object trigger bool: setting to True
-[Info   : Unity Log] bool val: True
-[Info   : Diversity] Interactor interacted with: StorageCloset
-[Message:AdvancedCompany] Saving default prices:
-[Message:AdvancedCompany] Found 41-experimentation with a price of 0
-[Message:AdvancedCompany] Found 220-assurance with a price of 0
-[Message:AdvancedCompany] Found 56-vow with a price of 0
-[Message:AdvancedCompany] Found companymoon with a price of 0
-[Message:AdvancedCompany] Found 61-march with a price of 0
-[Message:AdvancedCompany] Found 85-rend with a price of 550
-[Message:AdvancedCompany] Found 7-dine with a price of 600
-[Message:AdvancedCompany] Found 21-offense with a price of 0
-[Message:AdvancedCompany] Found 8-titan with a price of 700
-[Info   : Unity Log] Set interminalmenu to true: True
-[Info   :darmuhsTerminalStuff] other modified
-[Info   :   ScanFix] Entered Patch
-[Info   :   ScanFix] Replaced Scan
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet created
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset created successfully
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet enabled
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset enabled successfully
-[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   :AdvancedCompany] Saving player data to client save file AdvancedCompany.
-[Info   :AdvancedCompany] Saving player data to client save file AdvancedCompany.
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: True
-[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
+[Info   : Diversity] Interactor interacted with: ControlDesk
+[Info   : Diversity] Interactor interacted with: ControlDesk
+[Info   : Unity Log] Lever animation: setting bool to True
+[Info   : Unity Log] Sent lever animation RPC on this client
 [Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Tzz
-[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
-[Info   :darmuhsTerminalStuff] Screen set to active
+[Info   : Unity Log] Loading scene
+[Info   : Unity Log] Scene that began loading: Level1Experimentation
+[Info   : Unity Log] LOADING GAME!!!!!
+[Info   : Unity Log] Waiting for all players to load!
+[Warning: Unity Log] One Static Lighting Sky component was already set for baking, only the latest one will be used.
+[Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
+[Message:AdvancedCompany] PopulateScenePlacedObjects
+[Info   :AdvancedCompany] Extending Lobby. Adding new player objects for a lobby size of 16
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (6)/Collision/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (7)/Collision (1)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam/Collision (6)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (37)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (1)/Collision (5)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (41)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (59)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (55)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (4)/Collision (2)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (56)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (5)/Collision (1)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (3)/Collision (3)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (27)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (57)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (2)/Collision (4)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (35)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (4)/Collision (4)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (34)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (7)/Collision (1)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (4)/Collision (2)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (38)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (60)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (49)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (51)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (4)/Collision (4)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (6)/Collision/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (2)/Collision (4)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (1)/Collision (5)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam/Collision (6)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (39)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (36)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (5)/Collision (1)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (3)/Collision (3)/Cube (47)"
+[Warning: Unity Log] [Dissonance:Recording] (18:33:58.145) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1554024)
+[Info   : Unity Log] GenerateNewFloor(). Map generator's random seed: 91257966
+[Info   : Diversity] Bracken scream audio created.
+[Info   : Unity Log] Dungeon finished generating in one frame.
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (159)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (27)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (99)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (158)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (160)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe7 (1)/Cube (39)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe7 (1)/Cube (38)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe7 (1)/Cube (37)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (34)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (36)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (35)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (25)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (16)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (13)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (24)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (14)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (20)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (19)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (12)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (21)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (23)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (22)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (25)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (16)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (13)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (24)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (14)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (20)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (19)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (12)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (21)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (23)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (22)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (25)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (16)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (13)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (24)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (14)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (20)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (19)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (12)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (21)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (23)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (22)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (25)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (16)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (13)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (24)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (14)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (20)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (19)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (12)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (21)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (23)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (22)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (25)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (16)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (13)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (24)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (14)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (20)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (19)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (12)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (21)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (23)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (22)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (7)"
+[Warning: Unity Log] [Dissonance:Recording] (18:34:00.974) BasicMicrophoneCapture: Insufficient buffer space, requested 115680, clamped to 16383 (dropping 99297 samples)
+[Warning: Unity Log] [Dissonance:Recording] (18:34:00.975) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:34:00.978) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:34:01.004) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1752561)
+[Info   : Unity Log] Players finished generating the new floor
+[Info   : Unity Log] Spawning synced props on server. Length: 31
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Message:AdvancedCompany] Applying modifiers for: 41-experimentation
+[Message:AdvancedCompany] Applying clear weather multipliers. Amount: 1; Value: 1
+[Message:AdvancedCompany] Final multipliers. Amount: 1; Value: 0.4
+[Info   : Unity Log] Number of scrap to spawn: 10. minTotalScrapValue: 80. Total value of items: 0.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Diversity] Added LungPropRevamp to: LungApparatus(Clone)
+[Info   : Diversity] Added SteamLeakRevamp to: SteamValve(Clone)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Diversity] Added SteamLeakRevamp to: SteamValve(Clone)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Diversity] Added SteamLeakRevamp to: SteamValve(Clone)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Diversity] Added SteamLeakRevamp to: SteamValve(Clone)
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Diversity] Added DiversityBehaviour to the RoundManager.
+[Info   : Unity Log] Trigger entered mine: Untagged; False; False
+[Info   : Unity Log] Trigger entered mine: Untagged; False; False
+[Info   : Unity Log] Trigger entered mine: Gravel; False; False
+[Warning: Unity Log] [Dissonance:Recording] (18:34:01.745) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   :BoomboxSyncFix] Round has loaded for all -- forcing everyone to reinitialize musicRandomizer.
+[Info   : Unity Log] Setting door BigDoor(Clone) with code f2 to open
+[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Setting door BigDoor(Clone) with code f2 to open
+[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Setting door BigDoor(Clone) with code p1 to open
+[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Setting door BigDoor(Clone) with code t2 to open
+[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Turning lights on at start
+[Info   : Unity Log] Displaying alert
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] spawn chance range min/max : -5, 2; time of day percent: 0.09259259
+[Info   : Unity Log] spawn chance range min/max (non integer) : -5.64065, 2.35935
+[Info   : Unity Log] startofround: 0; 0
+[Info   : Unity Log] base chance daytime: 1.45262
+[Info   : Unity Log] timeuptocurrenthour: 120; totalTime: 1080
+[Info   : Unity Log] AnomalyRandom 2: 4
+[Info   : Unity Log] Anomaly random 3: -15.61754, -2.183968, -39.77272
+[Info   : Unity Log] Anomaly random 3: -6.286991, -0.9188514, -37.83028
+[Info   : Unity Log] Anomaly random 3: 6.634233, 4.819676, -35.75032
+[Info   : Unity Log] Anomaly random 3: 37.63883, 0.5555778, 9.968271
+[Info   : Unity Log] spawn chance range min/max : -5, 2; time of day percent: 0.09261971
+[Info   : Unity Log] spawn chance range min/max (non integer) : -5.640271, 2.359729
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Centipede
+[Info   : Unity Log] enemy #0 probability - 51
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Bunker Spider
+[Info   : Unity Log] enemy #1 probability - 58
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Hoarding bug
+[Info   : Unity Log] enemy #2 probability - 28
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Flowerman
+[Info   : Unity Log] enemy #3 probability - 13
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Crawler
+[Info   : Unity Log] enemy #4 probability - 15
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Blob
+[Info   : Unity Log] enemy #5 probability - 30
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Girl
+[Info   : Unity Log] enemy #6 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Puffer
+[Info   : Unity Log] enemy #7 probability - 28
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Nutcracker
+[Info   : Unity Log] enemy #8 probability - 1
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Boomba
+[Info   : Unity Log] enemy #9 probability - 20
+[Info   : Unity Log] ADDING ENEMY #0: Centipede
+[Info   : Unity Log] Adding 1 to power level, enemy: Centipede
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] clientRPC scrap values length: 10
+[Info   : Unity Log] clip index: 3; soundType: 1; insanity sounds: False; vol: 0.7791483
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Finished snapping to ladder
+[Info   : Unity Log] Play time of day sfx
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Play music!; ; 0.7
+[Info   : Unity Log] Finished ladder sequence
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Current behaviour state: 0
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
@@ -1040,12 +1677,7 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] Leaving current lobby
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
 [Info   :Dreamweave.CompanyBuildingEnhancements] Disconnected From Lobby: Config Sync Reverted.
-[Info   :AdvancedCompany] Saving player data to client save file AdvancedCompany.
-[Info   : Unity Log] Got no ship grabbable items to save.
 [Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
-[Warning: Unity Log] [Dissonance:Recording] (17:13:51.242) BasicMicrophoneCapture: Insufficient buffer space, requested 19680, clamped to 16383 (dropping 3297 samples)
-[Warning: Unity Log] [Dissonance:Recording] (17:13:51.243) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (17:13:51.244) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
 [Message:AdvancedCompany] Server stopped!
 [Message:AdvancedCompany] Removing message handlers.
 [Error  : Unity Log] NullReferenceException
@@ -1060,6 +1692,543 @@ TooManySuits.PluginLoader.Update () (at <434b74dca9584b6891fed93d3e2a47a3>:IL_00
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Info   : Unity Log] Returning week num: 4
 [Info   : Unity Log] week num: 4
-[Info   : Unity Log] Discarding changed settings
-[Info   : Unity Log] host button pressed
-[Info   : Unity Log] Returning week num: 4
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+OccludeAudio.Update () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0150)
+
+[Error  : Unity Log] Releasing render texture that is set as Camera.targetTexture!
+[Error  : Unity Log] Releasing render texture that is set as Camera.targetTexture!
+[Error  : Unity Log] Releasing render texture that is set as Camera.targetTexture!
+[Info   : Unity Log] unsubscribing from steam callbacks
