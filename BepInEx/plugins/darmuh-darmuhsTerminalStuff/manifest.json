@@ -1,0 +1,10 @@
+{
+    "name": "darmuhsTerminalStuff",
+    "version_number": "2.2.2",
+    "website_url": "https://github.com/darmuh/TerminalStuff",
+    "description": "A collection of custom commands made with Terminal API",
+    "dependencies": [
+        "NotAtomicBomb-TerminalApi-1.5.0",
+		"Rozebud-FOV_Adjust-1.1.1"
+    ]
+}

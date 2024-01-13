@@ -1,0 +1,9 @@
+{
+    "name": "LaserPointerDetonator",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/ChrisFeline",
+    "description": "Detonate landmines remotely using a Laser Pointer.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

@@ -1,0 +1,13 @@
+_CommonRedist/
+Lethal\ Company_Data/
+MonoBleedingEdge/
+Lethal\ Company.exe
+UnityCrashHandler64.exe
+nvngx_dlss.dll
+NVUnityPlugin.dll
+UnityPlayer.dll
+OnlineFix.ini
+OnlineFix64.dll
+SteamOverlay64.dll
+winmm.dll
+dlllist.txt

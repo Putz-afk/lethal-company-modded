@@ -1,0 +1,9 @@
+{
+    "name": "Spooky_Dookies_Glowsuits",
+    "version_number": "1.1.8",
+    "website_url": "",
+    "description": "Different color glowsuits for Spooky Dookies - WORK IN PROGRESS - ADDING MORE COLORS",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100" , "x753-More_Suits-1.4.1" , "Verity-TooManySuits-1.0.4"
+    ]
+}

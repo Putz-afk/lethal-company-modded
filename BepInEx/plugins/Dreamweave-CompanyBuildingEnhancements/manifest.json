@@ -1,0 +1,9 @@
+{
+    "name": "CompanyBuildingEnhancements",
+    "version_number": "2.6.0",
+    "website_url": "",
+    "description": "A simple quality of life mod to speed up the task of selling your items to the Company. Config file included to enable/disable features to your liking.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

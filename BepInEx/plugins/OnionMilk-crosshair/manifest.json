@@ -1,0 +1,9 @@
+{
+    "name": "crosshair",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/OnionMilk-Mods/crosshair",
+    "description": "Adds a crosshair to for better aim, contains 10 crosshairs with ability to use your own (image, size and color).",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
