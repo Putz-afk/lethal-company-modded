@@ -1,17 +1,17 @@
 {
   "lobby": {
-    "lobby_size": 8,
+    "lobby_size": 16,
     "enable_cosmetics": true,
     "keep_open": true,
-    "keep_open_on_moon": false
+    "keep_open_on_moon": true
   },
   "general": {
     "enable_extend_deadline": true,
     "save_suits_after_death": true,
     "save_progress": true,
-    "xp_multiplier": 1.0,
-    "starting_xp": 500,
-    "day_length": 700
+    "xp_multiplier": 2.0,
+    "starting_xp": 1000,
+    "day_length": 1400
   },
   "moons": {
     "experimentation": {
@@ -233,7 +233,7 @@
     },
     "jump_stamina": {
       "active": true,
-      "base": 1.0,
+      "base": 1.6,
       "change": 0.1,
       "prices": [
         100,
@@ -246,7 +246,7 @@
     },
     "sprint_stamina": {
       "active": true,
-      "base": 1.0,
+      "base": 1.6,
       "change": 0.1,
       "prices": [
         150,
@@ -286,7 +286,7 @@
     "weight": {
       "active": true,
       "base": 1.0,
-      "change": 0.1,
+      "change": 0.2,
       "prices": [
         150,
         300,
@@ -311,7 +311,7 @@
       ]
     },
     "climbing_speed": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -326,8 +326,8 @@
       ]
     },
     "inventory_slots": {
-      "active": true,
-      "base": 3.0,
+      "active": false,
+      "base": 5.0,
       "change": 1.0,
       "prices": [
         500,
@@ -339,8 +339,8 @@
   },
   "ship_perks": {
     "scan_distance": {
-      "active": true,
-      "base": 1.0,
+      "active": false,
+      "base": 2.0,
       "change": 0.1,
       "prices": [
         50,
@@ -371,7 +371,7 @@
       ]
     },
     "extend_deadline_discount": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -386,7 +386,7 @@
       ]
     },
     "landing_speed": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -403,7 +403,7 @@
       ]
     },
     "delivery_speed": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -420,8 +420,8 @@
       ]
     },
     "save_loot": {
-      "active": true,
-      "base": 0.0,
+      "active": false,
+      "base": 0.5,
       "change": 0.1,
       "prices": [
         200,
