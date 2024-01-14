@@ -1,9 +1,9 @@
 {
   "lobby": {
-    "lobby_size": 16,
+    "lobby_size": 13,
     "enable_cosmetics": true,
     "keep_open": true,
-    "keep_open_on_moon": true
+    "keep_open_on_moon": false
   },
   "general": {
     "enable_extend_deadline": true,

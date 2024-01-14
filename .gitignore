@@ -1,4 +1,6 @@
 _CommonRedist/
+BepInEx/cache/
+BepInEx/LogOutput.log
 Lethal\ Company_Data/
 MonoBleedingEdge/
 Lethal\ Company.exe

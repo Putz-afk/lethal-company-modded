@@ -24,7 +24,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 50 plugins to load
+[Info   :   BepInEx] 51 plugins to load
 [Info   :   BepInEx] Loading [VoiceHUD 1.0.4]
 [Info   :   BepInEx] Loading [BetterLightning 1.0.3]
 [Info   :BetterLightning] Plugin Archmage.BetterLightning is loaded!
@@ -259,6 +259,124 @@
 [Info   :kuba6000.LC_MimicFixMod] Patching MaskedPlayerEnemy
 [Info   :   BepInEx] Loading [LC Sound Tool 1.4.0]
 [Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [Vanilla Content Expansion 0.1.0]
+[Info   :Vanilla Content Expansion] D:\My Files\Games\Lethal Company\Lethal Company v49 - 2\BepInEx\config\lewis.vanillaContentExpansion.cfg
+[Info   :Vanilla Content Expansion] Loaded Asset bundle from D:\My Files\Games\Lethal Company\Lethal Company v49 - 2\BepInEx\plugins\VanillaContentExpansion\vanillacontentplus
+[Info   :Vanilla Content Expansion] RETRO_PC Config Loaded: [ENABLED] True | [WEIGHT] 2
+[Info   :Vanilla Content Expansion] CHIP Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] FAN Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] GAS_CAN Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] BEAM Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] CRT Config Loaded: [ENABLED] True | [WEIGHT] 2
+[Info   :Vanilla Content Expansion] PARTS_BOX Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] WIRE_SPOOL Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] Attempting To Register RETRO_PC
+[Info   :Vanilla Content Expansion] Registered Scrap: Retro PC
+[Info   :Vanilla Content Expansion] Attempting To Register CHIP
+[Info   :Vanilla Content Expansion] Registered Scrap: Computer Chip
+[Info   :Vanilla Content Expansion] Attempting To Register FAN
+[Info   :Vanilla Content Expansion] Registered Scrap: Computer Fan
+[Info   :Vanilla Content Expansion] Attempting To Register GAS_CAN
+[Info   :Vanilla Content Expansion] Registered Scrap: Gas Can
+[Info   :Vanilla Content Expansion] Attempting To Register BEAM
+[Info   :Vanilla Content Expansion] Registered Scrap: Metal Beam
+[Info   :Vanilla Content Expansion] Attempting To Register CRT
+[Info   :Vanilla Content Expansion] Registered Scrap: CRT Monitor
+[Info   :Vanilla Content Expansion] Attempting To Register PARTS_BOX
+[Info   :Vanilla Content Expansion] Registered Scrap: Box Of Parts
+[Info   :Vanilla Content Expansion] Attempting To Register WIRE_SPOOL
+[Info   :Vanilla Content Expansion] Registered Scrap: Copper Wire Spool
+[Info   :Vanilla Content Expansion] WRENCH Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] BEARING Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] METAL DISK Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] MOTOR Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] STATOR Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] COMPESSOR Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] GEAR1 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] GEAR2 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] GEAR3 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] SCREW1 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] SCREW2 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] SCREW3 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] FLOPPY_DISK Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] LOST_HELMET Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] LOST_TANK Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] AERIAL_DISH Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] MISSILE Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] GENERATOR Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] OIL_DRUM Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] STUDIO_CAM Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] Attempting To Register WRENCH
+[Info   :Vanilla Content Expansion] Registered Scrap: Wrench
+[Info   :Vanilla Content Expansion] Attempting To Register BEARING
+[Info   :Vanilla Content Expansion] Registered Scrap: Ball Bearing
+[Info   :Vanilla Content Expansion] Attempting To Register METAL DISK
+[Info   :Vanilla Content Expansion] Registered Scrap: Metal Disk
+[Info   :Vanilla Content Expansion] Attempting To Register MOTOR
+[Info   :Vanilla Content Expansion] Registered Scrap: Small Motor
+[Info   :Vanilla Content Expansion] Attempting To Register STATOR
+[Info   :Vanilla Content Expansion] Registered Scrap: Stator
+[Info   :Vanilla Content Expansion] Attempting To Register COMPESSOR
+[Info   :Vanilla Content Expansion] Registered Scrap: Air Compressor
+[Info   :Vanilla Content Expansion] Attempting To Register GEAR1
+[Info   :Vanilla Content Expansion] Registered Scrap: Gear
+[Info   :Vanilla Content Expansion] Attempting To Register GEAR2
+[Info   :Vanilla Content Expansion] Registered Scrap: Gear
+[Info   :Vanilla Content Expansion] Attempting To Register GEAR3
+[Info   :Vanilla Content Expansion] Registered Scrap: Gear
+[Info   :Vanilla Content Expansion] Attempting To Register SCREW1
+[Info   :Vanilla Content Expansion] Registered Scrap: Screw
+[Info   :Vanilla Content Expansion] Attempting To Register SCREW2
+[Info   :Vanilla Content Expansion] Registered Scrap: Screw
+[Info   :Vanilla Content Expansion] Attempting To Register SCREW3
+[Info   :Vanilla Content Expansion] Registered Scrap: Screw
+[Info   :Vanilla Content Expansion] Attempting To Register FLOPPY_DISK
+[Info   :Vanilla Content Expansion] Registered Scrap: Floppy Disk
+[Info   :Vanilla Content Expansion] Attempting To Register LOST_HELMET
+[Info   :Vanilla Content Expansion] Registered Scrap: Lost Employee Helmet
+[Info   :Vanilla Content Expansion] Attempting To Register LOST_TANK
+[Info   :Vanilla Content Expansion] Registered Scrap: Lost Employee Tank
+[Info   :Vanilla Content Expansion] Attempting To Register AERIAL_DISH
+[Info   :Vanilla Content Expansion] Registered Scrap: Aerial Dish
+[Info   :Vanilla Content Expansion] Attempting To Register MISSILE
+[Info   :Vanilla Content Expansion] Registered Scrap: Old Missile
+[Info   :Vanilla Content Expansion] Attempting To Register GENERATOR
+[Info   :Vanilla Content Expansion] Registered Scrap: Diesel Generator
+[Info   :Vanilla Content Expansion] Attempting To Register OIL_DRUM
+[Info   :Vanilla Content Expansion] Registered Scrap: Oil Drum
+[Info   :Vanilla Content Expansion] Attempting To Register STUDIO_CAM
+[Info   :Vanilla Content Expansion] Registered Scrap: Studio Camera
+[Info   :Vanilla Content Expansion] SIX_PIN_CABLE Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] CAPACITOR Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] DIODE Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] TRANSISTOR Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] MAGNET Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] TAPE Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] TAPE_MEASURE Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] FLIP_PHONE Config Loaded: [ENABLED] True | [WEIGHT] 4
+[Info   :Vanilla Content Expansion] CONTROL_PANEL Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] CAR_BATTERY Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] PISTON Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] Attempting To Register SIX_PIN_CABLE
+[Info   :Vanilla Content Expansion] Registered Scrap: 6 Pin Cable
+[Info   :Vanilla Content Expansion] Attempting To Register CAPACITOR
+[Info   :Vanilla Content Expansion] Registered Scrap: Capacitor
+[Info   :Vanilla Content Expansion] Attempting To Register DIODE
+[Info   :Vanilla Content Expansion] Registered Scrap: Diode
+[Info   :Vanilla Content Expansion] Attempting To Register TRANSISTOR
+[Info   :Vanilla Content Expansion] Registered Scrap: Transistor
+[Info   :Vanilla Content Expansion] Attempting To Register MAGNET
+[Info   :Vanilla Content Expansion] Registered Scrap: Magnet
+[Info   :Vanilla Content Expansion] Attempting To Register TAPE
+[Info   :Vanilla Content Expansion] Registered Scrap: Blue Tape
+[Info   :Vanilla Content Expansion] Attempting To Register TAPE_MEASURE
+[Info   :Vanilla Content Expansion] Registered Scrap: Tape Measure
+[Info   :Vanilla Content Expansion] Attempting To Register FLIP_PHONE
+[Info   :Vanilla Content Expansion] Registered Scrap: Flip Phone
+[Info   :Vanilla Content Expansion] Attempting To Register CAR_BATTERY
+[Info   :Vanilla Content Expansion] Registered Scrap: Car Battery
+[Info   :Vanilla Content Expansion] Attempting To Register PISTON
+[Info   :Vanilla Content Expansion] Registered Scrap: Piston
 [Info   :   BepInEx] Loading [LCAmmoCheck 1.0.0]
 [Message:LCAmmoCheck] LCAmmoCheck loaded!
 [Info   :   BepInEx] Loading [Elads HUD 1.1.0]
@@ -324,10 +442,66 @@
 [Info   :   BepInEx] Loading [Mimics 2.3.2]
 [Info   :    Mimics] Plugin Mimics is loaded!
 [Message:   BepInEx] Chainloader startup complete
-[Warning: Unity Log] dxgi: swapchain SetFullscreenState failed (887a0022).
-[Warning: Unity Log] Failed to change display to ExclusiveFullscreen...reverting to FullscreenWindow
-[Warning: Unity Log] dxgi: swapchain SetFullscreenState failed (887a0022).
-[Warning: Unity Log] Failed to change display to ExclusiveFullscreen...reverting to FullscreenWindow
+[Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Info   : Elads HUD] 51 plugins loaded
+[Info   : Elads HUD] Plugin GUID: 5Bit.VoiceHUD
+[Info   : Elads HUD] Plugin GUID: Archmage.BetterLightning
+[Info   : Elads HUD] Plugin GUID: atomic.terminalapi
+[Info   : Elads HUD] Plugin GUID: BetterMonitor
+[Info   : Elads HUD] Plugin GUID: BlueAmulet.BetterClock
+[Info   : Elads HUD] Plugin GUID: BoomboxSyncFix
+[Info   : Elads HUD] Plugin GUID: Chaos.Diversity
+[Info   : Elads HUD] Plugin GUID: com.elitemastereric.coroner
+[Info   : Elads HUD] Plugin GUID: com.potatoepet.AdvancedCompany
+[Info   : Elads HUD] Plugin GUID: com.redcrowbar.buffedpresents
+[Info   : Elads HUD] Plugin GUID: com.rune580.LethalCompanyInputUtils
+[Info   : Elads HUD] Plugin GUID: com.steven.lethalcompany.boomboxmusic
+[Info   : Elads HUD] Plugin GUID: CustomSounds
+[Info   : Elads HUD] Plugin GUID: Rozebud.FovAdjust
+[Info   : Elads HUD] Plugin GUID: darmuh.TerminalStuff
+[Info   : Elads HUD] Plugin GUID: dev.bobbie.fixrpclag
+[Info   : Elads HUD] Plugin GUID: discount.alert
+[Info   : Elads HUD] Plugin GUID: Dreamweave.CompanyBuildingEnhancements
+[Info   : Elads HUD] Plugin GUID: egeadam.MoreScreams
+[Info   : Elads HUD] Plugin GUID: evaisa.lethallib
+[Info   : Elads HUD] Plugin GUID: evaisa.lethalthings
+[Info   : Elads HUD] Plugin GUID: FlipMods.FasterItemDropship
+[Info   : Elads HUD] Plugin GUID: FlipMods.LetMeLookDown
+[Info   : Elads HUD] Plugin GUID: freesnow.collectyourdead
+[Info   : Elads HUD] Plugin GUID: GoldenKitten.FairAI
+[Info   : Elads HUD] Plugin GUID: Hexnet.lethalcompany.suitsaver
+[Info   : Elads HUD] Plugin GUID: impulse.TakeTheMaskOff
+[Info   : Elads HUD] Plugin GUID: jamil.corporate_restructure
+[Info   : Elads HUD] Plugin GUID: Kittenji.LaserPointerDetonator
+[Info   : Elads HUD] Plugin GUID: krystall9.FastSwitchPlayerViewInRadar
+[Info   : Elads HUD] Plugin GUID: kuba6000.LC_MimicFixMod
+[Info   : Elads HUD] Plugin GUID: LCSoundTool
+[Info   : Elads HUD] Plugin GUID: lewis.vanillaContentExpansion
+[Info   : Elads HUD] Plugin GUID: me.axd1x8a.lcammocheck
+[Info   : Elads HUD] Plugin GUID: me.eladnlg.customhud
+[Info   : Elads HUD] Plugin GUID: MegaPiggy.BuyableShotgunShells
+[Info   : Elads HUD] Plugin GUID: monke.lc.jumpdelay
+[Info   : Elads HUD] Plugin GUID: NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+[Info   : Elads HUD] Plugin GUID: MoreEmotes
+[Info   : Elads HUD] Plugin GUID: OnionMilk_crosshair
+[Info   : Elads HUD] Plugin GUID: PC.FireExitFlip
+[Info   : Elads HUD] Plugin GUID: quackandcheese.togglemute
+[Info   : Elads HUD] Plugin GUID: RickArg.lethalcompany.helmetcameras
+[Info   : Elads HUD] Plugin GUID: ScanFix
+[Info   : Elads HUD] Plugin GUID: sunnobunno.YippeeMod
+[Info   : Elads HUD] Plugin GUID: taffyko.BetterSprayPaint
+[Info   : Elads HUD] Plugin GUID: TDP.CoilHeadStare
+[Info   : Elads HUD] Plugin GUID: Toskan4134.LethalRegeneration
+[Info   : Elads HUD] Plugin GUID: x753.More_Suits
+[Info   : Elads HUD] Plugin GUID: verity.TooManySuits
+[Info   : Elads HUD] Plugin GUID: x753.Mimics
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM1, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM2, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM3, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM4, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM5, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: IMESelected, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Using NewInputSystem
 [Info   : Unity Log] Saving changed settings
 [Info   : Unity Log] subcribing to steam callbacks
 [Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
@@ -394,6 +568,7 @@
 [Info   : Unity Log] started host!
 [Info   : Unity Log] are we in a server?: True
 [Info   : Unity Log] Lobby has been created
+[Warning: Unity Log] [Dissonance:Recording] (03:27:31.463) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1985286)
 [Info   :LethalThings] Spawning config manager
 [Message:AdvancedCompany] Looking for all items:
 [Message:AdvancedCompany] Found item: Binoculars
@@ -637,6 +812,234 @@
 [Info   : LethalLib] Added GnarpyPlush to DineLevel
 [Info   : LethalLib] Added GnarpyPlush to OffenseLevel
 [Info   : LethalLib] Added GnarpyPlush to TitanLevel
+[Info   : LethalLib] Added case_item to ExperimentationLevel
+[Info   : LethalLib] Added case_item to AssuranceLevel
+[Info   : LethalLib] Added case_item to VowLevel
+[Info   : LethalLib] Added case_item to MarchLevel
+[Info   : LethalLib] Added case_item to OffenseLevel
+[Info   : LethalLib] Added case_item to TitanLevel
+[Info   : LethalLib] Added chip_item to ExperimentationLevel
+[Info   : LethalLib] Added chip_item to AssuranceLevel
+[Info   : LethalLib] Added chip_item to VowLevel
+[Info   : LethalLib] Added chip_item to MarchLevel
+[Info   : LethalLib] Added chip_item to OffenseLevel
+[Info   : LethalLib] Added chip_item to TitanLevel
+[Info   : LethalLib] Added fan_item to ExperimentationLevel
+[Info   : LethalLib] Added fan_item to AssuranceLevel
+[Info   : LethalLib] Added fan_item to VowLevel
+[Info   : LethalLib] Added fan_item to MarchLevel
+[Info   : LethalLib] Added fan_item to OffenseLevel
+[Info   : LethalLib] Added fan_item to TitanLevel
+[Info   : LethalLib] Added gascan_item to ExperimentationLevel
+[Info   : LethalLib] Added gascan_item to AssuranceLevel
+[Info   : LethalLib] Added gascan_item to VowLevel
+[Info   : LethalLib] Added gascan_item to MarchLevel
+[Info   : LethalLib] Added gascan_item to OffenseLevel
+[Info   : LethalLib] Added gascan_item to TitanLevel
+[Info   : LethalLib] Added metal_beam_item to ExperimentationLevel
+[Info   : LethalLib] Added metal_beam_item to AssuranceLevel
+[Info   : LethalLib] Added metal_beam_item to VowLevel
+[Info   : LethalLib] Added metal_beam_item to MarchLevel
+[Info   : LethalLib] Added metal_beam_item to OffenseLevel
+[Info   : LethalLib] Added metal_beam_item to TitanLevel
+[Info   : LethalLib] Added monitor_item to ExperimentationLevel
+[Info   : LethalLib] Added monitor_item to AssuranceLevel
+[Info   : LethalLib] Added monitor_item to VowLevel
+[Info   : LethalLib] Added monitor_item to MarchLevel
+[Info   : LethalLib] Added monitor_item to OffenseLevel
+[Info   : LethalLib] Added monitor_item to TitanLevel
+[Info   : LethalLib] Added parts_box_item to ExperimentationLevel
+[Info   : LethalLib] Added parts_box_item to AssuranceLevel
+[Info   : LethalLib] Added parts_box_item to VowLevel
+[Info   : LethalLib] Added parts_box_item to MarchLevel
+[Info   : LethalLib] Added parts_box_item to OffenseLevel
+[Info   : LethalLib] Added parts_box_item to TitanLevel
+[Info   : LethalLib] Added wire_spool_item to ExperimentationLevel
+[Info   : LethalLib] Added wire_spool_item to AssuranceLevel
+[Info   : LethalLib] Added wire_spool_item to VowLevel
+[Info   : LethalLib] Added wire_spool_item to MarchLevel
+[Info   : LethalLib] Added wire_spool_item to OffenseLevel
+[Info   : LethalLib] Added wire_spool_item to TitanLevel
+[Info   : LethalLib] Added wrench_item to ExperimentationLevel
+[Info   : LethalLib] Added wrench_item to AssuranceLevel
+[Info   : LethalLib] Added wrench_item to VowLevel
+[Info   : LethalLib] Added wrench_item to MarchLevel
+[Info   : LethalLib] Added wrench_item to OffenseLevel
+[Info   : LethalLib] Added wrench_item to TitanLevel
+[Info   : LethalLib] Added bearing_item to ExperimentationLevel
+[Info   : LethalLib] Added bearing_item to AssuranceLevel
+[Info   : LethalLib] Added bearing_item to VowLevel
+[Info   : LethalLib] Added bearing_item to MarchLevel
+[Info   : LethalLib] Added bearing_item to OffenseLevel
+[Info   : LethalLib] Added bearing_item to TitanLevel
+[Info   : LethalLib] Added metaldisk_item to ExperimentationLevel
+[Info   : LethalLib] Added metaldisk_item to AssuranceLevel
+[Info   : LethalLib] Added metaldisk_item to VowLevel
+[Info   : LethalLib] Added metaldisk_item to MarchLevel
+[Info   : LethalLib] Added metaldisk_item to OffenseLevel
+[Info   : LethalLib] Added metaldisk_item to TitanLevel
+[Info   : LethalLib] Added motor_item to ExperimentationLevel
+[Info   : LethalLib] Added motor_item to AssuranceLevel
+[Info   : LethalLib] Added motor_item to VowLevel
+[Info   : LethalLib] Added motor_item to MarchLevel
+[Info   : LethalLib] Added motor_item to OffenseLevel
+[Info   : LethalLib] Added motor_item to TitanLevel
+[Info   : LethalLib] Added stator_item to ExperimentationLevel
+[Info   : LethalLib] Added stator_item to AssuranceLevel
+[Info   : LethalLib] Added stator_item to VowLevel
+[Info   : LethalLib] Added stator_item to MarchLevel
+[Info   : LethalLib] Added stator_item to OffenseLevel
+[Info   : LethalLib] Added stator_item to TitanLevel
+[Info   : LethalLib] Added compressor_item to ExperimentationLevel
+[Info   : LethalLib] Added compressor_item to AssuranceLevel
+[Info   : LethalLib] Added compressor_item to VowLevel
+[Info   : LethalLib] Added compressor_item to MarchLevel
+[Info   : LethalLib] Added compressor_item to OffenseLevel
+[Info   : LethalLib] Added compressor_item to TitanLevel
+[Info   : LethalLib] Added gear_1_item to ExperimentationLevel
+[Info   : LethalLib] Added gear_1_item to AssuranceLevel
+[Info   : LethalLib] Added gear_1_item to VowLevel
+[Info   : LethalLib] Added gear_1_item to MarchLevel
+[Info   : LethalLib] Added gear_1_item to OffenseLevel
+[Info   : LethalLib] Added gear_1_item to TitanLevel
+[Info   : LethalLib] Added gear_2_item to ExperimentationLevel
+[Info   : LethalLib] Added gear_2_item to AssuranceLevel
+[Info   : LethalLib] Added gear_2_item to VowLevel
+[Info   : LethalLib] Added gear_2_item to MarchLevel
+[Info   : LethalLib] Added gear_2_item to OffenseLevel
+[Info   : LethalLib] Added gear_2_item to TitanLevel
+[Info   : LethalLib] Added gear_3_item to ExperimentationLevel
+[Info   : LethalLib] Added gear_3_item to AssuranceLevel
+[Info   : LethalLib] Added gear_3_item to VowLevel
+[Info   : LethalLib] Added gear_3_item to MarchLevel
+[Info   : LethalLib] Added gear_3_item to OffenseLevel
+[Info   : LethalLib] Added gear_3_item to TitanLevel
+[Info   : LethalLib] Added screw_1_item to ExperimentationLevel
+[Info   : LethalLib] Added screw_1_item to AssuranceLevel
+[Info   : LethalLib] Added screw_1_item to VowLevel
+[Info   : LethalLib] Added screw_1_item to MarchLevel
+[Info   : LethalLib] Added screw_1_item to OffenseLevel
+[Info   : LethalLib] Added screw_1_item to TitanLevel
+[Info   : LethalLib] Added screw_2_item to ExperimentationLevel
+[Info   : LethalLib] Added screw_2_item to AssuranceLevel
+[Info   : LethalLib] Added screw_2_item to VowLevel
+[Info   : LethalLib] Added screw_2_item to MarchLevel
+[Info   : LethalLib] Added screw_2_item to OffenseLevel
+[Info   : LethalLib] Added screw_2_item to TitanLevel
+[Info   : LethalLib] Added screw_3_item to ExperimentationLevel
+[Info   : LethalLib] Added screw_3_item to AssuranceLevel
+[Info   : LethalLib] Added screw_3_item to VowLevel
+[Info   : LethalLib] Added screw_3_item to MarchLevel
+[Info   : LethalLib] Added screw_3_item to OffenseLevel
+[Info   : LethalLib] Added screw_3_item to TitanLevel
+[Info   : LethalLib] Added floppydisk_item to ExperimentationLevel
+[Info   : LethalLib] Added floppydisk_item to AssuranceLevel
+[Info   : LethalLib] Added floppydisk_item to VowLevel
+[Info   : LethalLib] Added floppydisk_item to MarchLevel
+[Info   : LethalLib] Added floppydisk_item to OffenseLevel
+[Info   : LethalLib] Added floppydisk_item to TitanLevel
+[Info   : LethalLib] Added helmet_item 20 to ExperimentationLevel
+[Info   : LethalLib] Added helmet_item 20 to AssuranceLevel
+[Info   : LethalLib] Added helmet_item 20 to VowLevel
+[Info   : LethalLib] Added helmet_item 20 to MarchLevel
+[Info   : LethalLib] Added helmet_item 20 to OffenseLevel
+[Info   : LethalLib] Added helmet_item 20 to TitanLevel
+[Info   : LethalLib] Added tanks_item to ExperimentationLevel
+[Info   : LethalLib] Added tanks_item to AssuranceLevel
+[Info   : LethalLib] Added tanks_item to VowLevel
+[Info   : LethalLib] Added tanks_item to MarchLevel
+[Info   : LethalLib] Added tanks_item to OffenseLevel
+[Info   : LethalLib] Added tanks_item to TitanLevel
+[Info   : LethalLib] Added aerialdish_item to ExperimentationLevel
+[Info   : LethalLib] Added aerialdish_item to AssuranceLevel
+[Info   : LethalLib] Added aerialdish_item to VowLevel
+[Info   : LethalLib] Added aerialdish_item to MarchLevel
+[Info   : LethalLib] Added aerialdish_item to OffenseLevel
+[Info   : LethalLib] Added aerialdish_item to TitanLevel
+[Info   : LethalLib] Added missile_item to ExperimentationLevel
+[Info   : LethalLib] Added missile_item to AssuranceLevel
+[Info   : LethalLib] Added missile_item to VowLevel
+[Info   : LethalLib] Added missile_item to MarchLevel
+[Info   : LethalLib] Added missile_item to OffenseLevel
+[Info   : LethalLib] Added missile_item to TitanLevel
+[Info   : LethalLib] Added generator_item to ExperimentationLevel
+[Info   : LethalLib] Added generator_item to AssuranceLevel
+[Info   : LethalLib] Added generator_item to VowLevel
+[Info   : LethalLib] Added generator_item to MarchLevel
+[Info   : LethalLib] Added generator_item to OffenseLevel
+[Info   : LethalLib] Added generator_item to TitanLevel
+[Info   : LethalLib] Added oildrum_item to ExperimentationLevel
+[Info   : LethalLib] Added oildrum_item to AssuranceLevel
+[Info   : LethalLib] Added oildrum_item to VowLevel
+[Info   : LethalLib] Added oildrum_item to MarchLevel
+[Info   : LethalLib] Added oildrum_item to OffenseLevel
+[Info   : LethalLib] Added oildrum_item to TitanLevel
+[Info   : LethalLib] Added studiocamera_item to ExperimentationLevel
+[Info   : LethalLib] Added studiocamera_item to AssuranceLevel
+[Info   : LethalLib] Added studiocamera_item to VowLevel
+[Info   : LethalLib] Added studiocamera_item to MarchLevel
+[Info   : LethalLib] Added studiocamera_item to OffenseLevel
+[Info   : LethalLib] Added studiocamera_item to TitanLevel
+[Info   : LethalLib] Added 6pin_cable_item to ExperimentationLevel
+[Info   : LethalLib] Added 6pin_cable_item to AssuranceLevel
+[Info   : LethalLib] Added 6pin_cable_item to VowLevel
+[Info   : LethalLib] Added 6pin_cable_item to MarchLevel
+[Info   : LethalLib] Added 6pin_cable_item to OffenseLevel
+[Info   : LethalLib] Added 6pin_cable_item to TitanLevel
+[Info   : LethalLib] Added capacitor_item to ExperimentationLevel
+[Info   : LethalLib] Added capacitor_item to AssuranceLevel
+[Info   : LethalLib] Added capacitor_item to VowLevel
+[Info   : LethalLib] Added capacitor_item to MarchLevel
+[Info   : LethalLib] Added capacitor_item to OffenseLevel
+[Info   : LethalLib] Added capacitor_item to TitanLevel
+[Info   : LethalLib] Added diode_item to ExperimentationLevel
+[Info   : LethalLib] Added diode_item to AssuranceLevel
+[Info   : LethalLib] Added diode_item to VowLevel
+[Info   : LethalLib] Added diode_item to MarchLevel
+[Info   : LethalLib] Added diode_item to OffenseLevel
+[Info   : LethalLib] Added diode_item to TitanLevel
+[Info   : LethalLib] Added transistor_item to ExperimentationLevel
+[Info   : LethalLib] Added transistor_item to AssuranceLevel
+[Info   : LethalLib] Added transistor_item to VowLevel
+[Info   : LethalLib] Added transistor_item to MarchLevel
+[Info   : LethalLib] Added transistor_item to OffenseLevel
+[Info   : LethalLib] Added transistor_item to TitanLevel
+[Info   : LethalLib] Added magnet_item to ExperimentationLevel
+[Info   : LethalLib] Added magnet_item to AssuranceLevel
+[Info   : LethalLib] Added magnet_item to VowLevel
+[Info   : LethalLib] Added magnet_item to MarchLevel
+[Info   : LethalLib] Added magnet_item to OffenseLevel
+[Info   : LethalLib] Added magnet_item to TitanLevel
+[Info   : LethalLib] Added tape_item to ExperimentationLevel
+[Info   : LethalLib] Added tape_item to AssuranceLevel
+[Info   : LethalLib] Added tape_item to VowLevel
+[Info   : LethalLib] Added tape_item to MarchLevel
+[Info   : LethalLib] Added tape_item to OffenseLevel
+[Info   : LethalLib] Added tape_item to TitanLevel
+[Info   : LethalLib] Added tape_measure_item to ExperimentationLevel
+[Info   : LethalLib] Added tape_measure_item to AssuranceLevel
+[Info   : LethalLib] Added tape_measure_item to VowLevel
+[Info   : LethalLib] Added tape_measure_item to MarchLevel
+[Info   : LethalLib] Added tape_measure_item to OffenseLevel
+[Info   : LethalLib] Added tape_measure_item to TitanLevel
+[Info   : LethalLib] Added flip-phone_item to ExperimentationLevel
+[Info   : LethalLib] Added flip-phone_item to AssuranceLevel
+[Info   : LethalLib] Added flip-phone_item to VowLevel
+[Info   : LethalLib] Added flip-phone_item to MarchLevel
+[Info   : LethalLib] Added flip-phone_item to OffenseLevel
+[Info   : LethalLib] Added flip-phone_item to TitanLevel
+[Info   : LethalLib] Added car_battery_item to ExperimentationLevel
+[Info   : LethalLib] Added car_battery_item to AssuranceLevel
+[Info   : LethalLib] Added car_battery_item to VowLevel
+[Info   : LethalLib] Added car_battery_item to MarchLevel
+[Info   : LethalLib] Added car_battery_item to OffenseLevel
+[Info   : LethalLib] Added car_battery_item to TitanLevel
+[Info   : LethalLib] Added piston_item to ExperimentationLevel
+[Info   : LethalLib] Added piston_item to AssuranceLevel
+[Info   : LethalLib] Added piston_item to VowLevel
+[Info   : LethalLib] Added piston_item to MarchLevel
+[Info   : LethalLib] Added piston_item to OffenseLevel
+[Info   : LethalLib] Added piston_item to TitanLevel
 [Info   : LethalLib] Registered scrap item: Arson Plush
 [Info   : LethalLib] Registered scrap item: Cookie Fumo
 [Info   : LethalLib] Registered scrap item: Toimari Plush
@@ -648,6 +1051,44 @@
 [Info   : LethalLib] Registered scrap item: Gremlin Can
 [Info   : LethalLib] Registered scrap item: Toy Hammer
 [Info   : LethalLib] Registered scrap item: Gnarpy Plush
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Retro PC
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Computer Chip
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Computer Fan
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Gas Can
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Metal Beam
+[Info   : LethalLib] VanillaContentPlus registered scrap item: CRT Monitor
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Box Of Parts
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Copper Wire Spool
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Wrench
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Ball Bearing
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Metal Disk
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Small Motor
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Stator
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Air Compressor
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Gear
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Gear
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Gear
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Screw
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Screw
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Screw
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Floppy Disk
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Lost Employee Helmet
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Lost Employee Tank
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Aerial Dish
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Old Missile
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Diesel Generator
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Oil Drum
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Studio Camera
+[Info   : LethalLib] VanillaContentPlus registered scrap item: 6 Pin Cable
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Capacitor
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Diode
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Transistor
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Magnet
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Blue Tape
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Tape Measure
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Flip Phone
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Car Battery
+[Info   : LethalLib] VanillaContentPlus registered scrap item: Piston
 [Info   : LethalLib] Registered shop item: Rocket Launcher
 [Info   : LethalLib] Registered shop item: Flaregun
 [Info   : LethalLib] Registered shop item: Emergency Flare (ammo)
@@ -745,13 +1186,7 @@
 [Warning: Unity Log] Unable to add the requested character to font asset [3270-REGULAR SDF]'s atlas texture. Please make the texture [3270-REGULAR SDF Atlas] readable.
 [Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
 [Message:AdvancedCompany] PopulateScenePlacedObjects
-[Info   :AdvancedCompany] Extending Lobby. Adding new player objects for a lobby size of 16
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
-[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :AdvancedCompany] Extending Lobby. Adding new player objects for a lobby size of 13
 [Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
 [Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
 [Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
@@ -893,14 +1328,14 @@
 [Info   : Unity Log] Item sales percentages #27: 0
 [Info   : Unity Log] Item sales percentages #28: 0
 [Info   : Unity Log] Item sales percentages #29: 0
-[Info   : Unity Log] Group credits: 35
+[Info   : Unity Log] Group credits: 60
 [Info   :darmuhsTerminalStuff] Upgrading terminal with my stuff, smile.
 [Warning:Terminal Api] Failed to delete teleport. Was not found in keywords.
 [Warning:Terminal Api] Failed to delete tp. Was not found in keywords.
 [Warning:Terminal Api] Failed to delete itp. Was not found in keywords.
 [Warning:Terminal Api] Failed to delete inverse. Was not found in keywords.
 [Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
-[Info   :AdvancedCompany] Extending QuickMenuManager player slots for 16 players.
+[Info   :AdvancedCompany] Extending QuickMenuManager player slots for 13 players.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
@@ -914,12 +1349,9 @@
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-[Info   :AdvancedCompany] Extending HUDManager stats for 16 players.
+[Info   :AdvancedCompany] Extending HUDManager stats for 13 players.
 [Info   : Diversity] Added HUDManagerRevamp to: PlayersManager / HUDManager
-[Info   :AdvancedCompany] Changing audio mixer and expanding voice chat slots for 16 players.
+[Info   :AdvancedCompany] Changing audio mixer and expanding voice chat slots for 13 players.
 [Info   :AdvancedCompany] New AudioMixer: Diagetic16Players
 [Info   : Diversity] Added PlayerRevamp to: Player (4)
 [Info   : Diversity] Added PlayerRevamp to: Player (5)
@@ -930,9 +1362,6 @@
 [Info   : Diversity] Added PlayerRevamp to: Player (10)
 [Info   : Diversity] Added PlayerRevamp to: Player (11)
 [Info   : Diversity] Added PlayerRevamp to: Player (12)
-[Info   : Diversity] Added PlayerRevamp to: Player (13)
-[Info   : Diversity] Added PlayerRevamp to: Player (14)
-[Info   : Diversity] Added PlayerRevamp to: Player (15)
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
@@ -1000,12 +1429,6 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Message:AdvancedCompany] 
 [Message:AdvancedCompany] Player 12
 [Message:AdvancedCompany] 
-[Message:AdvancedCompany] Player 13
-[Message:AdvancedCompany] 
-[Message:AdvancedCompany] Player 14
-[Message:AdvancedCompany] 
-[Message:AdvancedCompany] Player 15
-[Message:AdvancedCompany] 
 [Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
 [Info   : Unity Log] !!!! connectedPlayersAmount: 0
 [Info   : Unity Log] [SS]: Waiting for suits to sync...
@@ -1013,7 +1436,7 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] Has beta save data: True
 [Info   :AdvancedCompany] Activating necessary player objects for next player to join.
 [Info   :AdvancedCompany] Next player object with ID 1 activated.
-[Warning: Unity Log] [Dissonance:Recording] (19:12:28.061) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1782762)
+[Warning: Unity Log] [Dissonance:Recording] (03:27:41.402) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1575541)
 [Info   : Unity Log] [SS]: Successfully loaded saved suit. (GlowBlue)
 [Info   :darmuhsTerminalStuff] Checking for purchased Teleporter objects
 [Info   :darmuhsTerminalStuff] TP does not exist yet
@@ -1021,593 +1444,6 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
 [Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
 [Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
-[Info   : Diversity] Interactor interacted with: ControlDesk
-[Info   : Diversity] Interactor interacted with: ControlDesk
-[Message:AdvancedCompany] Saving default prices:
-[Message:AdvancedCompany] Found 41-experimentation with a price of 0
-[Message:AdvancedCompany] Found 220-assurance with a price of 0
-[Message:AdvancedCompany] Found 56-vow with a price of 0
-[Message:AdvancedCompany] Found companymoon with a price of 0
-[Message:AdvancedCompany] Found 61-march with a price of 0
-[Message:AdvancedCompany] Found 85-rend with a price of 550
-[Message:AdvancedCompany] Found 7-dine with a price of 600
-[Message:AdvancedCompany] Found 21-offense with a price of 0
-[Message:AdvancedCompany] Found 8-titan with a price of 700
-[Info   : Unity Log] Set interminalmenu to true: True
-[Info   :darmuhsTerminalStuff] other modified
-[Info   :   ScanFix] Entered Patch
-[Info   :   ScanFix] Replaced Scan
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet created
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset created successfully
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet enabled
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset enabled successfully
-[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
-[Info   :darmuhsTerminalStuff] disabled confirmation check, checked __result at __result
-[Info   :darmuhsTerminalStuff] Arg specified:neither
-[Info   :darmuhsTerminalStuff] disabling cams views
-[Info   :darmuhsTerminalStuff] TP does not exist yet
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] Parsed word: ass
-[Info   : Unity Log] noun keyword: assurance ; verb keyword: route ; result null? : False
-[Info   : Unity Log] result: 220route
-[Info   :darmuhsTerminalStuff] disabled confirmation check, checked __result at __result
-[Info   :darmuhsTerminalStuff] Arg specified:neither
-[Info   :darmuhsTerminalStuff] disabling cams views
-[Info   :darmuhsTerminalStuff] TP does not exist yet
-[Info   :darmuhsTerminalStuff] Arg specified:neither
-[Info   :darmuhsTerminalStuff] disabling cams views
-[Info   : Unity Log] Changing level server rpc 1
-[Info   : Unity Log] level id: 1
-[Info   : Unity Log] Changing level
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: True
-[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
-[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Tzz
-[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
-[Info   :darmuhsTerminalStuff] Screen set to active
-[Info   : Diversity] Interactor interacted with: ControlDesk
-[Info   : Unity Log] Level id: 1
-[Info   : Unity Log] Lever animation: setting bool to True
-[Info   : Unity Log] Sent lever animation RPC on this client
-[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Tzz
-[Info   : Unity Log] Loading scene
-[Info   : Unity Log] Scene that began loading: Level2Assurance
-[Info   : Unity Log] LOADING GAME!!!!!
-[Info   : Unity Log] Waiting for all players to load!
-[Warning: Unity Log] [Dissonance:Recording] (19:12:54.081) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:12:54.085) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1786718)
-[Warning: Unity Log] One Static Lighting Sky component was already set for baking, only the latest one will be used.
-[Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
-[Message:AdvancedCompany] PopulateScenePlacedObjects
-[Info   :AdvancedCompany] Extending Lobby. Adding new player objects for a lobby size of 16
-[Warning: Unity Log] LadderTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/Girder1 (4)/Collider (2)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/SteelDoorFake/DoorMesh/Cube"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (18)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (17)"
-[Info   : Unity Log] GenerateNewFloor(). Map generator's random seed: 1003310290
-[Info   : Diversity] Bracken scream audio created.
-[Info   : Unity Log] Dungeon finished generating in one frame.
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (159)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (26)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (27)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (99)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (158)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/LargeForkTileB(Clone)/Colliders/RailColliders/Cube (160)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (25)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (18)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (16)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (15)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (17)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (13)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (24)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (14)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (20)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (11)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (19)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (12)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (21)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (23)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (22)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (26)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (3)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (4)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (5)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (2)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (6)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Props/LungDockingStation/LungSocketMachine/BigSocket/Collisions/Cube (7)"
-[Warning: Unity Log] [Dissonance:Recording] (19:12:55.889) BasicMicrophoneCapture: Insufficient buffer space, requested 39360, clamped to 16383 (dropping 22977 samples)
-[Warning: Unity Log] [Dissonance:Recording] (19:12:55.891) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:12:55.892) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Info   : Unity Log] Players finished generating the new floor
-[Info   : Unity Log] Spawning synced props on server. Length: 25
-[Message:AdvancedCompany] Applying modifiers for: 220-assurance
-[Message:AdvancedCompany] Applying clear weather multipliers. Amount: 1; Value: 1
-[Message:AdvancedCompany] Final multipliers. Amount: 1; Value: 0.4
-[Info   : Unity Log] Number of scrap to spawn: 13. minTotalScrapValue: 100. Total value of items: 0.
-[Info   : Diversity] Added LungPropRevamp to: LungApparatus(Clone)
-[Info   : Diversity] Added FlashlightRevamp to: LaserPointer(Clone)
-[Info   : Diversity] Added Rigidbody to: LaserPointer(Clone)
-[Info   : Diversity] Added DiversityBehaviour to the RoundManager.
-[Info   :BoomboxSyncFix] Round has loaded for all -- forcing everyone to reinitialize musicRandomizer.
-[Info   : Unity Log] Setting door BigDoor(Clone) with code r2 to open
-[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
-[Info   : Unity Log] bool val: True
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Info   : Unity Log] Setting door BigDoor(Clone) with code r4 to open
-[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
-[Info   : Unity Log] bool val: True
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Info   : Unity Log] Setting door BigDoor(Clone) with code y9 to open
-[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
-[Info   : Unity Log] bool val: True
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Info   : Unity Log] Turning lights on at start
-[Info   : Unity Log] Displaying alert
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Info   : Unity Log] spawn chance range min/max : -4, 1; time of day percent: 0.09259259
-[Info   : Unity Log] spawn chance range min/max (non integer) : -4.901981, 1.098019
-[Info   : Unity Log] startofround: 1; 0
-[Info   : Unity Log] base chance daytime: 1.505869
-[Info   : Unity Log] timeuptocurrenthour: 120; totalTime: 1080
-[Info   : Unity Log] AnomalyRandom 2: 8
-[Info   : Unity Log] Anomaly random 3: 119.0469, -0.6985106, 9.986454
-[Info   : Unity Log] Anomaly random 3: 137.5677, 0.2527652, 18.15737
-[Info   : Unity Log] Anomaly random 3: 6.608835, -1.533932, -4.214669
-[Info   : Unity Log] Anomaly random 3: -11.20926, -2.290784, -47.60825
-[Info   : Unity Log] Anomaly random 3: 89.04888, -1.182432, -65.98717
-[Info   : Unity Log] Anomaly random 3: 99.72039, -2.088677, -19.90867
-[Info   : Unity Log] Anomaly random 3: 38.66115, -0.8630948, -47.67131
-[Info   : Unity Log] spawn chance range min/max : -4, 1; time of day percent: 0.09262105
-[Info   : Unity Log] spawn chance range min/max (non integer) : -4.901593, 1.098407
-[Info   : Unity Log] Setting bee random seed: 30599028
-[Info   : Unity Log] Set bee hive random position: (100.15, -2.68, -16.31)
-[Info   : Unity Log] Set targetfloorposition of hive: (100.15, -2.18, -16.31)
-[Info   : Unity Log] clip index: 5; soundType: 2; insanity sounds: False; vol: 0.810528
-[Info   : Unity Log] Current behaviour state: 0
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
-[Info   : Unity Log] Current behaviour state: 0
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
-[Info   : Unity Log] clientRPC scrap values length: 13
-[Info   : Unity Log] Current behaviour state: 0
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
-[Warning: Unity Log] [Dissonance:Recording] (19:13:11.221) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1599838)
-[Info   : Unity Log] Current behaviour state: 1
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
-[Info   : Unity Log] Current behaviour state: 1
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
-[Info   : Unity Log] Play time of day sfx
-[Info   : Unity Log] Play music!; ; 0.7
-[Info   : Unity Log] Current behaviour state: 1
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
-[Info   : Unity Log] Current behaviour state: 0
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
-[Info   : Unity Log] Current behaviour state: 1
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
-[Info   : Unity Log] Current behaviour state: 1
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
-[Info   : Diversity] Interactor interacted with: Cube
-[Info   : Unity Log] Finished snapping to ladder
-[Info   : Unity Log] Finished ladder sequence
-[Info   : Unity Log] Current behaviour state: 1
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
-[Info   : Unity Log] clip index: 3; soundType: 1; insanity sounds: False; vol: 0.810528
-[Info   : Diversity] Interactor interacted with: Cube
-[Info   : Unity Log] Triggering animated object trigger bool: setting to True
-[Info   : Unity Log] bool val: True
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] [Dissonance:Recording] (19:13:57.848) BasicMicrophoneCapture: Insufficient buffer space, requested 18720, clamped to 16383 (dropping 2337 samples)
-[Warning: Unity Log] [Dissonance:Recording] (19:13:57.849) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:13:57.850) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:13:57.852) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.3617832)
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Info   : Diversity] Interactor interacted with: storage
-[Info   : Unity Log] Triggering animated object trigger bool: setting to True
-[Info   : Unity Log] bool val: True
-[Info   : Diversity] Interactor interacted with: storage shelves
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Info   : Diversity] Interactor interacted with: storage shelves
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Info   : Unity Log] Triggering animated object trigger bool: setting to True
-[Info   : Unity Log] bool val: True
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Info   : Unity Log] Charging timer is up, setting to firing mode
-[Info   : Unity Log] hasLineOfSight is false
-[Info   : Unity Log] base chance daytime: 0.9383574
-[Info   : Unity Log] timeuptocurrenthour: 240; totalTime: 1080
-[Info   : Unity Log] AnomalyRandom 2: 0
-[Info   : Unity Log] spawn chance range min/max : -3, 2; time of day percent: 0.1666671
-[Info   : Unity Log] spawn chance range min/max (non integer) : -3.857324, 2.142676
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Info   : Diversity] Interactor interacted with: mesh
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Info   : Unity Log] Charging timer is up, setting to firing mode
-[Info   : Unity Log] hasLineOfSight is false
-[Info   : Unity Log] Triggering animated object trigger bool: setting to False
-[Info   : Unity Log] bool val: False
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Info   : Unity Log] clip index: 3; soundType: 1; insanity sounds: False; vol: 0.810528
-[Info   : Unity Log] Current behaviour state: 1
-[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Diversity] Interactor interacted with: ControlDesk
-[Info   : Unity Log] Lever animation: setting bool to False
-[Info   : Unity Log] Sent lever animation RPC on this client
-[Warning: Unity Log] [Dissonance:Recording] (19:16:21.872) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:16:21.873) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1709306)
-[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Tzz
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
-[Warning: Unity Log] [Dissonance:Recording] (19:16:22.319) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Info   : Unity Log] Ship is leaving. Despawning props and enemies.
-[Warning: Unity Log] [Dissonance:Recording] (19:16:46.373) BasicMicrophoneCapture: Insufficient buffer space, requested 65760, clamped to 16383 (dropping 49377 samples)
-[Warning: Unity Log] [Dissonance:Recording] (19:16:46.374) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:16:46.375) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:16:46.415) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:11.37145)
-[Warning: Unity Log] [Dissonance:Recording] (19:16:46.587) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1762367)
-[Info   : Unity Log] Despawning props and enemies #2
-[Info   : Unity Log] Despawning props and enemies #3
-[Info   : Unity Log] Enemies on map: 7
-[Info   : Unity Log] Despawning enemy: DoublewingedBird(Clone)
-[Info   : Unity Log] Despawning enemy: RedLocustBees(Clone)
-[Info   : Unity Log] Despawning enemy: DoublewingedBird(Clone)
-[Info   : Unity Log] Despawning enemy: DoublewingedBird(Clone)
-[Info   : Unity Log] Despawning enemy: DocileLocustBees(Clone)
-[Info   : Unity Log] Despawning enemy: DocileLocustBees(Clone)
-[Info   : Unity Log] Despawning enemy: DocileLocustBees(Clone)
-[Info   :   Coroner] [REPORT] Player 0 has no notes! Injecting something funny...
-[Info   :   Coroner] Player 1 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 2 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 3 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 4 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 5 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 6 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 7 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 8 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 9 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 10 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 11 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 12 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 13 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 14 is not controlled by a player. Skipping...
-[Info   :   Coroner] Player 15 is not controlled by a player. Skipping...
-[Info   : Unity Log] Scrap collected: 146
-[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-[Info   : Unity Log] XP gain before scaling to scrap returned: 10
-[Info   : Unity Log] 0.2517241
-[Info   : Unity Log] 0.2517241
-[Info   : Unity Log] Level up timer: 0
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players B
-[Info   : Unity Log] Reviving players F
-[Info   : Unity Log] Refreshing voice playback objects. Number of voice objects found: 0
-[Info   : Unity Log] Skipping player #1 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #2 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #3 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #4 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #5 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #6 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #7 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #8 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #9 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #10 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #11 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #12 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #13 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #14 as they are not controlled or dead
-[Info   : Unity Log] Skipping player #15 as they are not controlled or dead
-[Info   : Unity Log] Reviving players G
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players A
-[Info   : Unity Log] Reviving players H
-[Info   : Unity Log] Level up timer: 0.06628418
-[Info   : Unity Log] Level up timer: 0.1116638
-[Warning: Unity Log] [Dissonance:Recording] (19:17:03.438) BasicMicrophoneCapture: Insufficient buffer space, requested 22560, clamped to 16383 (dropping 6177 samples)
-[Warning: Unity Log] [Dissonance:Recording] (19:17:03.439) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:17:03.443) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:17:03.444) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.4751252)
-[Warning: Unity Log] [Dissonance:Recording] (19:17:03.609) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.168701)
-[Warning: Unity Log] [Dissonance:Recording] (19:17:05.872) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
@@ -1616,10 +1452,10 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
 [Info   :CustomSounds] Destroying network handler
 [Info   :Dreamweave.CompanyBuildingEnhancements] Disconnected From Lobby: Config Sync Reverted.
+[Info   : Unity Log] Got no ship grabbable items to save.
 [Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
-[Warning: Unity Log] [Dissonance:Recording] (19:17:12.630) BasicMicrophoneCapture: Insufficient buffer space, requested 23040, clamped to 16383 (dropping 6657 samples)
-[Warning: Unity Log] [Dissonance:Recording] (19:17:12.632) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
-[Warning: Unity Log] [Dissonance:Recording] (19:17:12.633) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (03:28:56.656) BasicMicrophoneCapture: Insufficient buffer space, requested 25920, clamped to 16383 (dropping 9537 samples)
+[Warning: Unity Log] [Dissonance:Recording] (03:28:56.657) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
 [Message:AdvancedCompany] Server stopped!
 [Message:AdvancedCompany] Removing message handlers.
 [Error  : Unity Log] NullReferenceException
