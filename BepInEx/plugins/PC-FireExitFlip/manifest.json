@@ -1,9 +1,0 @@
-{
-    "name": "FireExitFlip",
-    "version_number": "1.0.0",
-    "website_url": "",
-    "description": "When entering through fire exit this makes you turn away from the door",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}
